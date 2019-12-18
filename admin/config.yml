@@ -73,6 +73,12 @@ collections: # A list of collections the CMS should be able to edit
           tagname: "image",
         }
       - { label: "Tags", name: "tags", widget: "string", required: false }
+      - {
+          label: "Display in Carousel on homepage",
+          name: "carousel",
+          widget: "boolean",
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
     meta: # Meta data fields. Just like fields, but without any preview element
       - {
