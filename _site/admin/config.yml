@@ -38,7 +38,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - label: "About Page"
         name: "about"
-        file: "_data/home.yml"
+        file: "_data/about.yml"
         fields:
           - {
               label: "Title",
