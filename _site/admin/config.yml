@@ -33,12 +33,13 @@ collections: # A list of collections the CMS should be able to edit
         }
   - name: "pages"
     label: "Pages"
+    folder: "_data"
     editor:
       preview: false
     files:
       - label: "About Page"
         name: "about"
-        file: "_data/about.yml"
+        file: "about.yml"
         fields:
           - {
               label: "Title",
