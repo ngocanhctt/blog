@@ -33,13 +33,12 @@ collections: # A list of collections the CMS should be able to edit
         }
   - name: "pages"
     label: "Pages"
-    folder: "_data"
     editor:
       preview: false
     files:
       - label: "About Page"
         name: "about"
-        file: "about.yml"
+        file: "_pages/about.md"
         fields:
           - {
               label: "Title",
@@ -55,7 +54,7 @@ collections: # A list of collections the CMS should be able to edit
             }
           - {
               label: "Layout",
-              name: "title",
+              name: "layout",
               widget: "hidden",
               default: "page",
             }
