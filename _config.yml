@@ -40,7 +40,7 @@ contact:
 slider: Life # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
@@ -53,7 +53,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

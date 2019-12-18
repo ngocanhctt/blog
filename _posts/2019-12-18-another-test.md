@@ -2,6 +2,7 @@
 layout: post
 title: another test
 image: /img/uploads/03.jpg
-tags: Work
+tags: Life Work
 ---
+
 this is my text
