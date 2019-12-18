@@ -1,14 +1,6 @@
 [
   
     {
-      "title"    : "test",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/test/2019/12/18/test/",
-      "date"     : "2019-12-18 00:00:00 -1000"
-    } ,
-  
-    {
       "title"    : "another test",
       "category" : "",
       "tags"     : "Work",

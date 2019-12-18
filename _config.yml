@@ -13,32 +13,28 @@ author:
 # Example of adding a new link to the footer - {name: "Github", icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 contact:
-  - { name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com" }
+  # - { name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com" }
   - {
       name: "Facebook",
       icon: "ion-logo-facebook",
-      link: "https://facebook.com",
+      link: "https://www.facebook.com/mehta.megz",
     }
-  - {
-      name: "Dribbble",
-      icon: "ion-logo-dribbble",
-      link: "https://dribbble.com",
-    }
+  # - {
+  #     name: "Dribbble",
+  #     icon: "ion-logo-dribbble",
+  #     link: "https://dribbble.com",
+  #   }
   - {
       name: "Instagram",
       icon: "ion-logo-instagram",
-      link: "https://instagram.com",
+      link: "https://www.instagram.com/megz_mehta/",
     }
-  - {
-      name: "Pinterest",
-      icon: "ion-logo-pinterest",
-      link: "https://pinterest.com",
-    }
-  - {
-      name: "Email",
-      icon: "ion-ios-mail",
-      link: "mailto:forexample@website.com",
-    }
+  # - {
+  #     name: "Pinterest",
+  #     icon: "ion-logo-pinterest",
+  #     link: "https://pinterest.com",
+  #   }
+  - { name: "Email", icon: "ion-ios-mail", link: "mailto:mehta.megz@gmail.com" }
 
 # Slider Section
 slider: Life # NOTE - By default, the slider is set to display tags. Now the slider shows the tag with the text "Life". If you do not want to use the slider, leave the slider field empty.
