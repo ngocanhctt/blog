@@ -8,10 +8,53 @@ collections: # A list of collections the CMS should be able to edit
   - name: "settings"
     label: "Settings"
     description: "Configure default settings here"
-    folder: "_data"
-    file: "settings.yml"
-    fields:
-      - { label: "Site Title", name: "title", widget: "string" }
+    files:
+      - label: "Edit Settings"
+        name: "settings"
+        file: "_data/settings.yml"
+        fields:
+          - {
+              label: "Website title",
+              name: "title",
+              widget: "string",
+              default: "Megha Mehta",
+            }
+          - {
+              label: "Website description",
+              name: "description",
+              widget: "string",
+              default: "Megha Mehta",
+            }
+          - { label: "Author name", name: "authorName", widget: "string" }
+          - { label: "Author image", name: "authorImage", widget: "image" }
+          - label: "Contact details"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "name", name: "name", widget: string }
+              - { label: "icon", name: "icon", widget: string }
+              - { label: "link", name: "link", widget: string }
+          - {
+              label: "Instagram profile url",
+              name: "instagramProfileUrl",
+              widget: "string",
+            }
+          - {
+              label: "Instagram user id",
+              name: "instagramUserId",
+              widget: "string",
+            }
+          - {
+              label: "Instagram access token",
+              name: "instagramAccessToken",
+              widget: "string",
+            }
+          - {
+              label: "Google analytics id",
+              name: "googleAnalyticsId",
+              widget: "string",
+            }
+
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "_posts" # The path to the folder where the documents are stored
@@ -30,6 +73,12 @@ collections: # A list of collections the CMS should be able to edit
           tagname: "image",
         }
       - { label: "Tags", name: "tags", widget: "string", required: false }
+      - {
+          label: "Carousel",
+          name: "carousel",
+          widget: "boolean",
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
     meta: # Meta data fields. Just like fields, but without any preview element
       - {
