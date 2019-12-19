@@ -1,17 +1,18 @@
 title: Megha Mehta
+description: A blog about travel
 authorName: Megha Mehta
 authorImage: /img/uploads/megha.png
 items:
   - icon: ion-logo-facebook
-    link: "https://www.facebook.com/mehta.megz"
+    link: 'https://www.facebook.com/mehta.megz'
     name: Facebook
   - icon: ion-logo-instagram
-    link: "https://www.instagram.com/megz_mehta/"
+    link: 'https://www.instagram.com/megz_mehta/'
     name: Instagram
-  - icon: ion-ios-email
-    link: mehta.megz@gmail.com
+  - icon: ion-ios-mail
+    link: 'mailto:mehta.megz@gmail.com'
     name: Email
-instagramProfileUrl: "https://www.instagram.com/megz_mehta/"
-instagramUserId: "6716400487"
+instagramProfileUrl: 'https://www.instagram.com/megz_mehta/'
+instagramUserId: '6716400487'
 instagramAccessToken: 6716400487.1677ed0.4fae51c47bc544a895b81756a7d0c477
-googleAnalyticsId: "12"
+googleAnalyticsId: '12'
