@@ -1,4 +1,4 @@
-backend:
+1backend:
   name: git-gateway
   branch: master # Branch to update (master by default)
 
@@ -17,13 +17,13 @@ collections: # A list of collections the CMS should be able to edit
               label: "Website title",
               name: "title",
               widget: "string",
-              default: "Megha Mehta",
+              default: "Sapna Yadav",
             }
           - {
               label: "Website description",
               name: "description",
               widget: "string",
-              default: "Megha Mehta",
+              default: "Sapna Yadav",
             }
           - { label: "Author name", name: "authorName", widget: "string" }
           - { label: "Author image", name: "authorImage", widget: "image" }
