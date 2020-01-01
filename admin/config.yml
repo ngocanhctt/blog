@@ -38,16 +38,19 @@ collections: # A list of collections the CMS should be able to edit
               label: "Instagram profile url",
               name: "instagramProfileUrl",
               widget: "string",
+              required: false,
             }
           - {
               label: "Instagram user id",
               name: "instagramUserId",
               widget: "string",
+              required: false,
             }
           - {
               label: "Instagram access token",
               name: "instagramAccessToken",
               widget: "string",
+              required: false,
             }
           - {
               label: "Google analytics id",
