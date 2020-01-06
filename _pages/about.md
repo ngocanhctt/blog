@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/uploads/03.jpg
+image: /img/uploads/sapnayadav.jpg
 layout: page
 ---
 Hi, my name is ...
