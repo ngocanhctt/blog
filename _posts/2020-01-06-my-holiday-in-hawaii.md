@@ -5,6 +5,10 @@ image: /img/uploads/hawaii.jpeg
 tags: What Near death Experiences teach us!
 carousel: true
 ---
+27th March 2020
+
+
+
 There are some days when I feel surrounded by a lower vibration thought. Now i recognise it because i have had it before, many times before in my life. I feel unhappy with everything when that happens with my job, with myself, with my city, with the country that i live in. 
 
 After speaking to a friend whom i share my thinking on spirituality and have shared my positive days when i have felt very vibrant and fulfilled, I start to feel better. My friend reminds me that i am slowly giving too much space to the negative thoughts. I must create space for the positive thoughts and remind myself of all the challenges i have overcome and how happy i have felt. Prayer is a way that gives us strength to find the strength to do that. She tells me that. I have done that before.  So i decide to go back to my routine of a silent prayer asking for guidance. 
