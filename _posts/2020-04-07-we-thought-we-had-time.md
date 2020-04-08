@@ -2,7 +2,7 @@
 layout: post
 title: We thought we had Time!
 image: /img/uploads/dan-azzopardi-zug_c-kyuua-unsplash.jpg
-tags: 'Effect of Pandemic, Photo by Dan Azzopardi on Unsplash'
+tags: Pandemic
 ---
 And we thought......\
 We had all the time in the world,\
@@ -96,4 +96,4 @@ The virus may strike any day!\
 \
 Sapna Yadav
 
-06/04/2020
+Photo by Dan Azzopardi on Unsplash 06/04/2020
