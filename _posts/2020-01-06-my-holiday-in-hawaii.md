@@ -2,7 +2,7 @@
 layout: post
 title: Why I Love Watching Near Death Experiences on You Tube!
 image: /img/uploads/hawaii.jpeg
-tags: What Near death Experiences teach us!
+tags: NDE
 carousel: true
 ---
 27th March 2020
