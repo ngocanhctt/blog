@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Finding Peace in Every day life:'
+title: "Finding Peace in Every day life:"
 image: /img/uploads/03.jpg
+tags: Peace
 carousel: true
 ---
 Have you gone through the same process as me?
