@@ -2,7 +2,7 @@ title: Sapna Yadav
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Melotta is a modern and minimal Jekyll theme for sharing your ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/blog" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
