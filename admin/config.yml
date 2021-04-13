@@ -23,7 +23,7 @@ collections: # A list of collections the CMS should be able to edit
               label: "Website description",
               name: "description",
               widget: "string",
-              default: "Sapna Yadav",
+              default: "Sapna Yadav111",
             }
           - { label: "Author name", name: "authorName", widget: "string" }
           - { label: "Author image", name: "authorImage", widget: "image" }
